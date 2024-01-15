@@ -462,6 +462,19 @@ h6 {
   opacity: 0;
 }
 
+.slide1{
+  background-image: url(./img/slide/african-american-chef-women-men-kitchen-kitchen-african-american-chef-women-man-kitchen-127141786.jpg);
+  
+}
+
+.slide2{
+  background-image: url(./img/slide/download-2020-11-08T234142.004.png);
+}
+
+.slide3{
+  background-image: url(./img/slide/images-44-removebg-preview.png);
+}
+
 #hero .carousel-inner .active,
 #hero .carousel-inner .carousel-item-next.carousel-item-start,
 #hero .carousel-inner .carousel-item-prev.carousel-item-end {
@@ -473,6 +486,7 @@ h6 {
 #hero .carousel-inner .carousel-item-prev,
 #hero .carousel-inner .active.carousel-item-start,
 #hero .carousel-inner .active.carousel-item-end {
+ 
   left: 0;
   transform: translate3d(0, 0, 0);
 }
@@ -651,6 +665,10 @@ section {
 --------------------------------------------------------------*/
 .about {
   background: #fffaf3;
+}
+
+.aboutpic{
+  background-image: url(./img/about.jpg);
 }
 
 .about .content {
